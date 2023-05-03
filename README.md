@@ -10,7 +10,8 @@
 <div align="center">
 <a target="_blank" align="center">
 <img align="center | top" height="300" width="400" alt="GIF"
-            src="https://media.giphy.com/media/KEG5UtvXUD7WPIhhuy/giphy.gif">
+            src="https://media.giphy.com/media/wLNuW1tCKRiPmDV5Y4/giphy.gif">
+
 </a>
 </div>
 

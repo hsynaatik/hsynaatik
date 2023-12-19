@@ -9,17 +9,11 @@
     <a href="https://www.w3schools.com/cs/" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
     </a>
-   <a href="https://unity.com/" target="_blank" rel="noreferrer">
-    <img src="https://unity.com/profiles/unity3d/themes/unity/images/company/logo/unity-logo-dark.svg" alt="unity" width="40" height="40"/>
-</a>
     <a href="https://dotnet.microsoft.com/"  rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/>
     </a>
     <a href="https://www.mysql.com/"  rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" alt="mysql" width="40" height="40"/>
-    </a>
-    <a href="https://www.w3schools.com/sql/"  rel="noreferrer">
-        <img src="https://www.svgrepo.com/show/303230/sql.svg" alt="sql" width="40" height="40"/>
     </a>
     <a href="https://www.microsoft.com/en-us/sql-server"  rel="noreferrer">
         <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/>

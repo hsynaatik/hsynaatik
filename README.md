@@ -9,9 +9,9 @@
     <a href="https://www.w3schools.com/cs/" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
     </a>
-    <a href="https://unity.com/" rel="noreferrer">
-        <img src="https://unity.com/profiles/unity3d/themes/unity/images/company/logo/unity-logo-dark.svg" alt="unity" width="40" height="40"/>
-    </a>
+   <a href="https://unity.com/" target="_blank" rel="noreferrer">
+    <img src="https://unity.com/profiles/unity3d/themes/unity/images/company/logo/unity-logo-dark.svg" alt="unity" width="40" height="40"/>
+</a>
     <a href="https://dotnet.microsoft.com/"  rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/>
     </a>

@@ -15,7 +15,7 @@
     <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/>
     </a>
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <a href="https://www.mysql.com/"  rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" alt="mysql" width="40" height="40"/>
     </a>
     <a href="https://www.w3schools.com/sql/" target="_blank" rel="noreferrer">
